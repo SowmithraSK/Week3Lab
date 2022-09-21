@@ -19,5 +19,6 @@
             
         </form>
             <p>${message}</p>
+            <a href="arithmeticcalculator.jsp">Arithmetic Calculator</a>
     </body>
 </html>
